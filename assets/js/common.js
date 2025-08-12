@@ -1,4 +1,35 @@
 $(document).ready(function () {
+  // Fix mobile hamburger menu touch events
+  $('.navbar-toggler').on('click touchstart', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    
+    var target = $(this).data('target');
+    var $targetNav = $(target);
+    
+    if ($targetNav.hasClass('show')) {
+      $targetNav.removeClass('show');
+      $(this).removeClass('active').attr('aria-expanded', 'false');
+    } else {
+      $targetNav.addClass('show');
+      $(this).addClass('active').attr('aria-expanded', 'true');
+    }
+  });
+
+  // Close mobile menu when clicking outside
+  $(document).on('click touchstart', function(e) {
+    if (!$(e.target).closest('.navbar').length) {
+      $('.navbar-collapse.show').removeClass('show');
+      $('.navbar-toggler').removeClass('active').attr('aria-expanded', 'false');
+    }
+  });
+
+  // Close mobile menu when clicking nav links
+  $('.navbar-nav .nav-link').on('click', function() {
+    $('.navbar-collapse.show').removeClass('show');
+    $('.navbar-toggler').removeClass('active').attr('aria-expanded', 'false');
+  });
+
   // add toggle functionality to abstract, award and bibtex buttons
   $("a.abstract").click(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
