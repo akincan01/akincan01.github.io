@@ -58,4 +58,4 @@ end
 gem 'wdm', '~> 0.1', :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Lock file format
-gem 'bundler', '~> 2.4'
+gem 'bundler', '>= 2.0'
