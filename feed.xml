@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://can-akin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://can-akin.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-12T15:33:24+00:00</updated><id>https://can-akin.com/feed.xml</id><title type="html">blank</title><subtitle>Software engineer passionate about building innovative solutions and exploring cutting-edge technology.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://can-akin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://can-akin.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-12T15:49:14+00:00</updated><id>https://can-akin.com/feed.xml</id><title type="html">blank</title><subtitle>Software engineer passionate about building innovative solutions and exploring cutting-edge technology.
 </subtitle><entry><title type="html">a post with plotly.js</title><link href="https://can-akin.com/blog/2025/plotly/" rel="alternate" type="text/html" title="a post with plotly.js" /><published>2025-03-26T14:24:00+00:00</published><updated>2025-03-26T14:24:00+00:00</updated><id>https://can-akin.com/blog/2025/plotly</id><content type="html" xml:base="https://can-akin.com/blog/2025/plotly/"><![CDATA[<p>This is an example post with some <a href="https://plotly.com/javascript/">plotly</a> code.</p>
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">plotly
@@ -185,7 +185,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="e10b4a3e-3454-4d38-9c2c-3e617fb4cce6" data-name="log">
+<ul id="log" class="tab" data-tab="d5f873df-edbb-4b19-9f5a-f852f236d241" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -200,7 +200,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="e10b4a3e-3454-4d38-9c2c-3e617fb4cce6" data-name="log">
+<ul class="tab-content" id="d5f873df-edbb-4b19-9f5a-f852f236d241" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -224,7 +224,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="778eb94c-a88f-4625-846f-fe9bcd1ba01a" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="855506fb-da90-4dc5-a540-1d236b0d4544" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -235,7 +235,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="778eb94c-a88f-4625-846f-fe9bcd1ba01a" data-name="data-struct">
+<ul class="tab-content" id="855506fb-da90-4dc5-a540-1d236b0d4544" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -257,7 +257,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="77e1eace-d052-4f53-85de-36d73a13ee2b" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="dcb985cd-990c-4adb-9707-1dc46e482087" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -272,7 +272,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="77e1eace-d052-4f53-85de-36d73a13ee2b" data-name="something-else">
+<ul class="tab-content" id="dcb985cd-990c-4adb-9707-1dc46e482087" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
