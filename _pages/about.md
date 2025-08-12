@@ -30,13 +30,13 @@ I (try to) write and vibe with code, read a lot, and think even more. I’ve bui
 
 I interned twice at Desjardins in Montreal, where I worked on CI pipelines, automated workflows for cybersecurity teams, and built data security solutions by implementing ETL pipelines in Kotlin. These internships gave me real-world insight into building reliable, secure systems within large organizations.
 
-For my final year at McGill, I joined the PreFab Photonics Lab under Prof. Odile Liboiron-Ladouceur and Dr. Dusan Gostimirovic. There, I applied deep learning techniques (using PyTorch, TensorFlow, and Keras) to optimize the manufacturing process of nanophotonic devices—a unique opportunity to merge AI with cutting-edge hardware research.
+For my final year at McGill, I joined the [PreFab Photonics Lab](https://www.prefabphotonics.com/) under Prof. Odile Liboiron-Ladouceur and Dr. Dusan Gostimirovic. There, I applied deep learning techniques (using PyTorch, TensorFlow, and Keras) to optimize the manufacturing process of nanophotonic devices—a unique opportunity to merge AI with cutting-edge hardware research.
 
 I'm fluent in English, French, and Turkish, and I thrive in multicultural, collaborative environments—having lived in Canada, Turkey, and France.
 
-These days, I’m focused on building AI-native tools and experimenting with emerging technologies like LangGraph and LlamaIndex. I love working on projects that blend intelligent automation with great user experience.
+These days, I'm focused on building AI-native tools and experimenting with emerging technologies like [LangGraph](https://langchain-ai.github.io/langgraph/) and [LlamaIndex](https://www.llamaindex.ai/). I love working on projects that blend intelligent automation with great user experience.
 
-I'm open to new opportunities and collaborations around the world. Don’t hesitate to reach out!
+I’m eligible to work in the EU, UK, and Canada, and I’m open to new opportunities and collaborations around the world — don’t hesitate to reach out!
 
 <br><br>
 
